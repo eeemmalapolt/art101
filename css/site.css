@@ -1,8 +1,27 @@
+html {
+  background-color: #F6FEFF;
+}
 
+h1, h2{
+  color: indigo;
+  font-family: monospace;
+}
 
-p{
-  color:pink;
-  font-weight:bold;
+p {
+  color: pink;
+  font-family: monospace;
+  font-weight: bold;
+}
+
+img {
+  border: solid 10px pink;
+  border-radius: 20px;
+}
+
+.list {
+  color: indigo;
+  font-family: monospace;
+  font-weight: bold;
 }
 
 #intro {
