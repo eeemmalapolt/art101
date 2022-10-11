@@ -5,10 +5,18 @@ p{
   font-weight:bold;
 }
 
-#nonsense {
+#intro {
   background-color: #d8a3e4;
   padding: 20px;
   margin: 10px;
   border: solid 1px purple;
   border-radius: 20px;
+}
+
+#my_portrait {
+  width: 100px;
+}
+
+#my_img {
+  width: 100px;
 }
