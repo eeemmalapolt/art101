@@ -1,0 +1,9 @@
+#script {
+  font-family: monospace;
+  color: #E366B1;
+  font-weight: bold;
+}
+
+#sc1, #sc2, #sc3{
+  width: 500px;
+}
