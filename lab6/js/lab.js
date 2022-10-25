@@ -4,7 +4,7 @@
 **/
 
 //Define variables
-myTransport = ["bus", "walk", "friendsCar", "Ghia"];
+myTransport = ["bus", " walk", " friend's car", " Ghia"];
 myMainRide = {
   make: "Ghia",
   model: "Volkswagen Karrman",

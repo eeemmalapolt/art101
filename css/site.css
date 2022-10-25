@@ -7,7 +7,7 @@ h1, h2, h3{
   font-family: monospace;
 }
 
-p {
+p, .script {
   color: #E366B1;
   font-family: monospace;
   font-weight: bold;

@@ -1,0 +1,11 @@
+.script {
+  background-color: #E6E6FA;
+  padding: 20px;
+  margin: 10px;
+  border: solid 3px purple;
+  border-radius: 20px;
+}
+
+img {
+  width: 500px;
+}
