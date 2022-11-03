@@ -1,6 +1,6 @@
 /**
 *Author: Emma LaPolt
-*Created: 10/23/2022
+*Created: 10/31/2022
 **/
 
 var outputEl = document.getElementById("output");
