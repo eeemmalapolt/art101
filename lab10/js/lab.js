@@ -17,4 +17,9 @@ function sortUserName(name) {
   return nameSorted;
 }
 
-document.getElementById("my-button").addEventListener("click", sortUserName("user-name"));
+var button = document.getElementById("my-button");
+button.addEventListener("click", function(){
+  inputValue = document.getElementById("user-name");
+  var sortedName = sortUserName(inputValue);
+  document.getElementById("output").innerHTML = sortedName;
+});

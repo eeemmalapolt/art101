@@ -1,0 +1,25 @@
+.special {
+  background-color: #ffffd1;
+}
+
+.specialer {
+  background-color: #e6d1f2;
+}
+
+.specialest {
+  background-color: #c1fdc1;
+}
+
+button {
+  color: indigo;
+  font-family: monospace;
+  background-color: #fec5e5;
+  border: dotted 1px indigo;
+}
+
+.sillyButt {
+  color: #fec5e5;
+  font-family: monospace;
+  background-color: indigo;
+  border: dotted 1px #fec5e5;
+}
