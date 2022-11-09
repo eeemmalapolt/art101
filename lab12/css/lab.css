@@ -1,0 +1,22 @@
+#input-content {
+  font-family: monospace;
+  color: #E366B1;
+  font-weight: bold;
+  border-style: dotted;
+  border-color: indigo;
+}
+
+button {
+  color: indigo;
+  font-family: monospace;
+  background-color: #fec5e5;
+  border: dotted 1px indigo;
+}
+
+input[type=text] {
+  color: indigo;
+  font-family: monospace;
+  background-color: #F6FEFF;
+  border-color: indigo;
+  border-style: dotted;
+}
